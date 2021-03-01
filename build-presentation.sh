@@ -1,6 +1,6 @@
 #!/bin/sh
 set -ex
-TALK=boring-object
+TALK=boring-objects
 mkdir -p build
 cp $TALK.ipynb build/
 cd build
